@@ -1,0 +1,5 @@
+.idea
+*.iml
+
+*.zip
+nixie-digits-1.0/source/*
